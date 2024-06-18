@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_access_alarm_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_todolist"
+        android:icon="@drawable/baseline_add_task_24"
+        android:title="To-Do List" />
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/baseline_access_time_filled_24"
+        android:title="History" />
+</menu>
